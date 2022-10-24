@@ -1,0 +1,16 @@
+/*define variables*/
+:root{
+    --primary-bg-color:#333333;
+    --primary-text-color:#efefef;
+}
+
+h2 {
+	text-align: center;
+	border: 3px solid rgb(132, 132, 132);
+	border-radius: 0.5em;
+	margin: 1.5em 4em;
+	padding: 10px;
+	background-color: var(--primary-bg-color);
+    color: var(--primary-text-color);
+	box-shadow: 5px 5px rgba(184, 180, 180, 0.2);
+}

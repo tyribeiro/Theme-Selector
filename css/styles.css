@@ -1,9 +1,7 @@
-h2 {
-	text-align: center;
-	border: 3px solid black;
-	border-radius: 0.5em;
-	margin: 1.5em 4em;
-	padding: 10px;
-	background-color: rgb(120, 213, 153);
-	box-shadow: 5px 5px rgba(0, 0, 0, 0.2);
+
+
+body{
+    background-color: var(--primary-bg-color);
+    color: var(--primary-text-color);
+    font-family: "Roboto Mono", sans-serif;
 }
