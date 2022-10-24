@@ -4,17 +4,21 @@
     --primary-text-color:#efefef;
 }
 
+body{
+    background-color: var(--primary-bg-color);
+}
+
 h2 {
 	text-align: center;
-	border: 3px solid rgb(132, 132, 132);
+    color: var(--primary-text-color);
+    border: 3px solid var(--primary-text-color);
 	border-radius: 0.5em;
 	margin: 1.5em 4em;
 	padding: 10px;
-	background-color: var(--primary-bg-color);
-    color: var(--primary-text-color);
-	box-shadow: 5px 5px rgba(184, 180, 180, 0.2);
+    box-shadow: 5px 5px rgba(154, 154, 154, 0.2);
 }
 
 h4 {
-    color: var(--primary-bg-color);
+    color: var(--primary-text-color);
 }
+
