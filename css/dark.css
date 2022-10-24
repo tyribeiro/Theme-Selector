@@ -14,3 +14,7 @@ h2 {
     color: var(--primary-text-color);
 	box-shadow: 5px 5px rgba(184, 180, 180, 0.2);
 }
+
+h4 {
+    color: var(--primary-bg-color);
+}

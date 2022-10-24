@@ -1,7 +1,9 @@
-
-
-body{
-    background-color: var(--primary-bg-color);
+body {
+    background-color: var(--primary-background-color);
     color: var(--primary-text-color);
-    font-family: "Roboto Mono", sans-serif;
+    font-family: 'Roboto Mono', sans-serif;
+}
+
+h4{
+    display: inline;
 }
